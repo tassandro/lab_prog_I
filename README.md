@@ -1,6 +1,6 @@
 # Trabalho I da disciplina de Laboratório de Programação
 A atividade proposta foi escrever um programa em C que reproduza um sistema de matrículas em 
-disciplinas da sua faculdade:
+disciplinas da sua faculdade, com os seguintes critérios:
 - As entidades do sistema mais importantes são: aluno e disciplina
 -  Cada aluno, possui um código (5 dígitos), nome e cpf
 - Cada disciplina possui um código (4 dígitos), nome, professor e 
