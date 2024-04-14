@@ -1,15 +1,7 @@
 /*
-
-SISTEMA ACADÊMICO
-
-Disciplina: Laboratório de Programação
-Professor: Cel Duarte
-Linguagem: C
-
 Alunos:
 Tassandro Cavalcante Leitão (TASSANDRO), nº 22044
 Vitor Luis Petralanda Alexandrino (PETRALANDA), nº 22059
-
 */
 
 // Includes
