@@ -1,0 +1,6 @@
+12345,tassandro,12345678910,1,
+1234,mat dis,veloso,3,2020.1,
+12354,vitor,13245678910,1,
+1324,calculo,rocha,5,2021.2,
+12245,arthur,12245678910,1,
+1122,algebra,ramon,4,2021.1,
